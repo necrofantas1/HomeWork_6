@@ -1,4 +1,4 @@
-﻿namespace HomeWork_7.Classes;
+﻿namespace HomeWork_6.Classes;
 
 public class Student
 {

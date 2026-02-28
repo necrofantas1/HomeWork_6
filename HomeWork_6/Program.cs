@@ -1,4 +1,4 @@
-﻿using HomeWork_7.Classes;
+﻿using HomeWork_6.Classes;
 
     class Program
     {
